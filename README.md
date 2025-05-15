@@ -1,0 +1,1 @@
+Women often turn to a wide range of blogs,forums and websites to seek answers pertaining to their health which might lead them to inconsistent or unreliable information. A RAG-based app serves as a one-stop solution by delivering trusted, accurate, and personalized answers from verified sources—all in one place.
