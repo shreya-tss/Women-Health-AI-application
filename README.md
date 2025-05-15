@@ -4,6 +4,25 @@ Women often turn to a wide range of blogs,forums and websites to seek answers pe
 
 To ensure a sustainable and efficient deployment, the system compares a Small Language Model (SLM) with a quantized GPTQ (Quantized Generative Pre-trained Transformer) model, assessing their trade-offs in latency, energy consumption, and overall environmental impact. This comparison identifies which model offers a greener footprint—minimizing power usage and carbon emissions—while maintaining high performance, making it ideal for resource-constrained or edge environments.The system also compare re-ranking methods in the RAG system using bi-encoder and cross-encoder approaches as to which performs better to the pre-text of models that we have choosen.
 
+## Technology stack
+# Datasets
+Curated medical databases (e.g.PubMed,clevelandclinic.org,mayoclinic,nia.nih.gov) and many other verified and open-source medical Journals 
+
+# Frontend
+React based application
+
+## Backend 
+
+# Embeddings
+Hugging Face Embeddings 
+
+# Models 
+1. Mistral-7B-Instruct-v0.1-GPTQ
+2. Microsoft Phi-2
+
+
+
+
 
 
 
