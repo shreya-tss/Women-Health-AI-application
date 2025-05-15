@@ -1,0 +1,15 @@
+pandas
+numpy
+flask
+flask-cors
+gunicorn
+torch
+transformers
+langchain_community
+langchain
+langchain-huggingface
+langchain_experimental
+langchain_chroma
+langchainhub
+unstructured
+sentence-transformers
