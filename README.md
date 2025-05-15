@@ -12,6 +12,11 @@ To ensure a sustainable and efficient deployment, the system compares a Small La
 ![image](https://github.com/user-attachments/assets/5e1e76f8-77cd-4807-b6e6-a1ed9f69ee9c)
 
 
+
+![image](https://github.com/user-attachments/assets/4e4c929e-ff88-4ac4-875b-4715389855a5)
+
+
+
 ## Results 
 
 ![image](https://github.com/user-attachments/assets/2af04231-48aa-477f-813f-83031a5259fa)
